@@ -21,9 +21,9 @@ The dataset consists of below variables:
 ## Data and Code files 
 
 * There are 3 data files for stock market data of tech companies
-  Apple - AAPL.csv
-  Google - GOOG.csv
-  IBM - IBM.csv
+  - Apple - AAPL.csv
+  - Google - GOOG.csv
+  - IBM - IBM.csv
 * There is one code file Stock Price Forecasting.ipynb that aontains the analysis and stock price prediction implementation of the 3 tech companies
 
 ## Softwares required
