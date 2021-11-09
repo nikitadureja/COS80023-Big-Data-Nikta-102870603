@@ -24,7 +24,7 @@ The dataset consists of below variables:
   - Apple - AAPL.csv
   - Google - GOOG.csv
   - IBM - IBM.csv
-* There is one code file Stock Price Forecasting.ipynb that aontains the analysis and stock price prediction implementation of the 3 tech companies
+* There is one code file Stock Price Forecasting.ipynb that contains the analysis and stock price prediction implementation of the 3 tech companies
 
 ## Softwares required
 1) Anaconda3
