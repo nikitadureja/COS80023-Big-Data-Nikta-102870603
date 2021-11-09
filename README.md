@@ -10,13 +10,13 @@ This project analyses the stock market data of the technology companies individu
 ## Dataset
 The dataset consists of the stock market data for 3 technology companies i.e., Apple, Google, and IBM from 5th Oct 2016 to 4th October 2021. It has been acquired from the link: https://finance.yahoo.com/lookup
 The dataset consists of below variables:
-Date: The date for which stock price is recorded
-Open: The opening stock price of the company on a particular date
-High: The highest stock price of the company on a particular date
-Low: The lowest stock price of the company on a particular date
-Close: The closing stock price of the company on a particular date
-Adj Close: Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions on a particular date. [2]
-Volume: It is the number of stock’s share that are traded on a particular day
+* Date: The date for which stock price is recorded
+* Open: The opening stock price of the company on a particular date
+* High: The highest stock price of the company on a particular date
+* Low: The lowest stock price of the company on a particular date
+* Close: The closing stock price of the company on a particular date
+* Adj Close: Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions on a particular date. [2]
+* Volume: It is the number of stock’s share that are traded on a particular day
 
 ## Data and Code files 
 
