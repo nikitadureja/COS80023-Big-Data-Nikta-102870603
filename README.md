@@ -15,7 +15,7 @@ The dataset consists of below variables:
 * High: The highest stock price of the company on a particular date
 * Low: The lowest stock price of the company on a particular date
 * Close: The closing stock price of the company on a particular date
-* Adj Close: Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions on a particular date. [2]
+* Adj Close: Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions on a particular date. 
 * Volume: It is the number of stock’s share that are traded on a particular day
 
 ## Data and Code files 
